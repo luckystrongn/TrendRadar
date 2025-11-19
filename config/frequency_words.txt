@@ -1,36 +1,26 @@
 iphone
+
 ipad
+
 mac
+
 ios
 
 特斯拉
+
 tesla
 
 DeepSeek
-梁文锋
 
 华为
-鸿蒙
-HarmonyOS
-任正非
 
 大疆
-DJI
-
-智元
-灵犀
-稚晖君
-彭志辉
 
 英雄联盟
-
+lol
 
 京东
 刘强东
-
-字节
-bytedance
-张一鸣
 
 微软
 Microsoft
@@ -41,7 +31,6 @@ NVIDIA
 
 AMD
 
-谷歌
 google
 gemini
 deepmind
@@ -62,7 +51,3 @@ ai
 机器人
 
 科技
-
-核能
-
-
